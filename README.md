@@ -10,7 +10,8 @@ Hello, I am Aditya Tripathi from CSE. I have completed the task of creating a Be
 2) Tailwind CSS: For styling the application.
 3) Framer Motion: For animations.
 4) Fuse.js: For dynamic suggestions and search functionality.
-5) Deployment
+
+# Deployment Link 
 The project is deployed and can be accessed at: https://behance20.netlify.app/
 
 # Running the Project
