@@ -183,10 +183,10 @@ const Header = () => {
                     )}
                   </div>
                   <div className="login-btn rounded-full border px-4 py-1 border-[#dee8ff]">
-                    <a className="text-[#0057ff] font-medium text-md">Log In</a>
+                    <a className="text-[#0057ff] font-medium text-md cursor-pointer">Log In</a>
                   </div>
                   <div className="login-btn mx-4 rounded-full border px-4 py-1 border-[#dee8ff] bg-[#0057ff]">
-                    <a className="text-white font-medium text-md">Sign Up</a>
+                    <a className="text-white font-medium text-md cursor-pointer">Sign Up</a>
                   </div>
                   <div
                     className="relative"  onMouseEnter={() => setIsAdobeDropdownOpen(true)}    onMouseLeave={() => setIsAdobeDropdownOpen(false)} >
